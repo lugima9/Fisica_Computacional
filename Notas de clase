@@ -1,0 +1,20 @@
+*SSH*
+Saber usar ssh para hacer conexión segura con joel.
+Había una contraseña para conectarme que debo recordar.
+
+*GIT*
+
+Saber usar los comandos add, commit, pull y push.
+Se puede hacer desde VisualStudioCode bastante sencillito.
+
+*TMUX*
+
+Para hacer cosas desde joel.
+
+*MATPLOTLB*
+
+Saber utilizar est módulo de Python para graficar.
+
+*DEPURACIÓN*
+
+Saber utilizar esta herramienta para detectar errores en el código -> breakpoints, step, ...
